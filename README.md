@@ -1,2 +1,2 @@
 # balancer
-![Alt text](/assemply.png)
+![Alt text](/assembly.png)
